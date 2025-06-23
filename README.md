@@ -20,16 +20,16 @@ Asegúrate de tener instalado Go en tu sistema. Puedes descargarlo desde [golang
 1.  **Clona el repositorio** (o crea la estructura de archivos si lo estás haciendo desde cero):
 
     ```bash
-    git clone https://github.com/tu-usuario/beisbol-api.git # Si tienes un repo
-    cd beisbol-api
+    git clone https://github.com/johansitoweb/API-RESTful-CON-GO-Y-ECHO.git # Si tienes un repo
+    cd API-RESTful-CON-GO-Y-ECHO
     ```
 
-    Si no tienes un repositorio, asegúrate de estar en el directorio `beisbol-api` que creaste.
+    Si no tienes un repositorio, asegúrate de estar en el directorio `API-RESTful-CON-GO-Y-ECHO` que creaste.
 
 2.  **Inicializa el módulo Go e instala las dependencias**:
 
     ```bash
-    go mod init beisbol-api # Solo si no lo has hecho ya
+    go mod init API-RESTful-CON-GO-Y-ECHO # Solo si no lo has hecho ya
     go mod tidy
     ```
 
