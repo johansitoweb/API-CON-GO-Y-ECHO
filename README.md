@@ -1,7 +1,7 @@
 
 # API de Personajes de Béisbol
 
-Una API RESTful simple para gestionar información sobre personajes de béisbol, desarrollada con **Go** y el framework **Echo**.
+Esta es una API RESTful simple para gestionar información sobre personajes de béisbol, desarrollada con **Go** y el framework **Echo**.
 
 -----
 
