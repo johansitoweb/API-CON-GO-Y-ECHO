@@ -1,0 +1,16 @@
+name: Johansitweb API REST con GO y ECHO
+
+on:
+   push:
+    branches:
+      -main
+jobs:
+      build:
+       runs-on: ubuntu-latest
+
+      steps:
+        - name: Checkout code
+                 uses: actions/checkout@v2
+
+        -name: Display current date and time
+           run: date
